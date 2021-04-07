@@ -44,7 +44,7 @@ class CovSendThread extends Thread {
 
         InputStream inputStream = null;
         OutputStream outputStream = null;
-        OutputStreamWriter writer = null;
+        // OutputStreamWriter writer = null;
         
         try {
 
